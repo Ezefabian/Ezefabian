@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian Viera</h1>
 
 <br>
-<h2>About Me : </h2>
+<h2>About Me :</h2>
 <br>
 
 - 🌱 I'm currently learning JavaScript
@@ -14,6 +14,14 @@
 
 <h2>I am good at :</h2>
 <br>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+
+<br>
+
+<h2>Others :</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,bash,github,git,java" />
+  </a>
+
