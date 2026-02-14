@@ -15,7 +15,7 @@
 <h2>I am good at :</h2>
 <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php" />
   </a>
 
 <br>
